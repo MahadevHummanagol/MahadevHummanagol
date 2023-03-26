@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahadev Hummanagol</h1>
-<h3 align="center">I am Datascientist(sherlock holmes of data),Python developer and Tech lover.</h3>
+<h3 align="center">I am Datascientist(Sherlock Holmes of data),Python developer and Tech lover.</h3>
 
 - 🌱 I’m currently learning **Pytorch**
 
